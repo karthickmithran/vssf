@@ -1,0 +1,18 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    color: darkgreen;
+}
+
+.song{
+    font-size: 20px;
+    padding: 20px;
+    box-shadow: 9px;
+    margin: 0px;
+}
+
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
